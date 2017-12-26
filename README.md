@@ -6,9 +6,9 @@
 <pre>新增二维码页面和个人中心页面静态布局</pre>
 
 ```javascript 运行
-git clone https://github.com/CatStars26/vue2_project_refactoring.git  
+git clone https://github.com/jinx92/vue_demo.git 
 
-cd vue2_project_refactoring
+cd vue_demo
 
 npm install
 
